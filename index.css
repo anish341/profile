@@ -1,0 +1,43 @@
+*{
+    margin: 2px;
+    padding: 3px;
+}
+table{
+    width: 80%;
+    margin-left: 50px;
+    margin-right: 20px;  
+}
+.table_form{
+    margin-right: 40px;
+}
+
+tr,td,table,th{
+    border: solid black 1px;
+    border-collapse: collapse;
+}
+
+input{
+   
+   width: 80%;
+}
+.btn{
+    background-color: rgb(204, 47, 47);
+    color: white;
+    width: 80%;
+    margin-left: 55px;
+    align-items: center;
+     
+}
+
+button{
+    
+    margin-left: 5px;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    width: 81%;
+
+}
+.form{
+    margin-left: 50px;
+}
